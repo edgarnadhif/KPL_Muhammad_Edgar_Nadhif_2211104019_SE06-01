@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CKK1LAB3",
+			"name": "Design Thinking"
+		},
+		{
+			"code": "CKK2LAB3",
+			"name": "Kecerdasan Buatan"
+		},
+		{
+			"code": "CKK2DAB3",
+			"name": "Proses Perangkat Lunak"
+		},
+		{
+			"code": "CKK2JAC2",
+			"name": "Proyek Tingkat II"
+		},
+		{
+			"code": "CKK3IAB2",
+			"name": "Tata Tulis Ilmiah"
+		},
+		{
+			"code": "CKK3KAB3",
+			"name": "Manajemen Konfigurasi dan Evolusi Perangkat Lunak"
+		}
+	]
+}
