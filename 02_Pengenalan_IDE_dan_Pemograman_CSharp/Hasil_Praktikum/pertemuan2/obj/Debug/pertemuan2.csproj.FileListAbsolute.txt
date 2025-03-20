@@ -1,7 +1,0 @@
-C:\Users\edgar\source\repos\pertemuan2\pertemuan2\bin\Debug\pertemuan2.exe.config
-C:\Users\edgar\source\repos\pertemuan2\pertemuan2\bin\Debug\pertemuan2.exe
-C:\Users\edgar\source\repos\pertemuan2\pertemuan2\bin\Debug\pertemuan2.pdb
-C:\Users\edgar\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.csproj.AssemblyReference.cache
-C:\Users\edgar\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.csproj.CoreCompileInputs.cache
-C:\Users\edgar\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.exe
-C:\Users\edgar\source\repos\pertemuan2\pertemuan2\obj\Debug\pertemuan2.pdb
