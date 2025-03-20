@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class SayaTubeVideo
+class SayaTubeVideo
 {
     private int id;
     private string title;
@@ -8,34 +8,34 @@ public class SayaTubeVideo
 
     public SayaTubeVideo(string title)
     {
-        Random rand = new Random();
-        this.id = rand.Next(10000, 99999);
+        if (string.IsNullOrEmpty(title) || title.Length > 200)
+            throw new ArgumentException("Judul tidak boleh null dan maksimal 200 karakter");
+
+        this.id = new Random().Next(10000, 99999);
         this.title = title;
         this.playCount = 0;
     }
 
     public void IncreasePlayCount(int count)
     {
-        if (count > 0)
+        if (count < 0 || count > 25000000)
+            throw new ArgumentException("Play count harus antara 0 hingga 25.000.000");
+
+        try
         {
-            this.playCount += count;
+            checked { playCount += count; }
+        }
+        catch (OverflowException)
+        {
+            Console.WriteLine("ERROR: Play count melebihi batas maksimum integer!");
         }
     }
 
     public void PrintVideoDetails()
     {
-        Console.WriteLine($"ID Video: {id}");
-        Console.WriteLine($"Judul: {title}");
-        Console.WriteLine($"Jumlah Play: {playCount}");
+        Console.WriteLine($"ID: {id}, Judul: {title}, Play Count: {playCount}");
     }
 
-    public int GetPlayCount()
-    {
-        return playCount;
-    }
-
-    public string GetTitle()
-    {
-        return title;
-    }
+    public int GetPlayCount() => playCount;
+    public string GetTitle() => title;
 }

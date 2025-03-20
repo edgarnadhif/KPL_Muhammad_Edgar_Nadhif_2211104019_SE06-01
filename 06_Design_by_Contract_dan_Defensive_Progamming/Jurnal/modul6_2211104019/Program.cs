@@ -11,18 +11,18 @@ namespace modul6_2211104019
         static void Main()
         {
             SayaTubeUser user = new SayaTubeUser("Edgar");
-
-            string[] filmList = {
-            "Review Film The Lion King oleh Edgar",
+            List<string> filmList = new List<string>
+        {
+            "Review Film Lion King oleh Edgar",
+            "Review Film Toy Story oleh Edgar",
             "Review Film Aladdin oleh Edgar",
-            "Review Film Beauty and the Beast oleh Edgar",
+            "Review Film Mulan oleh Edgar",
             "Review Film Frozen oleh Edgar",
             "Review Film Moana oleh Edgar",
-            "Review Film Tangled oleh Edgar",
-            "Review Film The Little Mermaid oleh Edgar",
-            "Review Film Mulan oleh Edgar",
-            "Review Film Zootopia oleh Edgar",
-            "Review Film Encanto oleh Edgar"
+            "Review Film Cars oleh Edgar",
+            "Review Film Finding Nemo oleh Edgar",
+            "Review Film Ratatouille oleh Edgar",
+            "Review Film Coco oleh Edgar"
         };
 
             foreach (var title in filmList)
@@ -34,7 +34,7 @@ namespace modul6_2211104019
             }
 
             Console.WriteLine();
-            user.PrintAllVideoPlayCount();
+            user.PrintAllVideoPlaycount();
             Console.WriteLine($"Total Play Count: {user.GetTotalVideoPlayCount()}");
         }
     }

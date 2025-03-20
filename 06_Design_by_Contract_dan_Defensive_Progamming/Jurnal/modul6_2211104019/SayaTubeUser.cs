@@ -1,39 +1,45 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class SayaTubeUser
+
+class SayaTubeUser
 {
     private int id;
     private List<SayaTubeVideo> uploadedVideos;
-    public string Username { get; private set; }
+    private string username;
 
     public SayaTubeUser(string username)
     {
-        Random rand = new Random();
-        this.id = rand.Next(10000, 99999);
-        this.Username = username;
-        this.uploadedVideos = new List<SayaTubeVideo>();
-    }
+        if (string.IsNullOrEmpty(username) || username.Length > 100)
+            throw new ArgumentException("Username tidak boleh null dan maksimal 100 karakter");
 
-    public int GetTotalVideoPlayCount()
-    {
-        int totalPlayCount = 0;
-        foreach (var video in uploadedVideos)
-        {
-            totalPlayCount += video.GetPlayCount();
-        }
-        return totalPlayCount;
+        this.id = new Random().Next(10000, 99999);
+        this.username = username;
+        this.uploadedVideos = new List<SayaTubeVideo>();
     }
 
     public void AddVideo(SayaTubeVideo video)
     {
+        if (video == null || video.GetPlayCount() >= int.MaxValue)
+            throw new ArgumentException("Video tidak boleh null dan play count tidak boleh melebihi batas");
+
         uploadedVideos.Add(video);
     }
 
-    public void PrintAllVideoPlayCount()
+    public int GetTotalVideoPlayCount()
     {
-        Console.WriteLine($"User: {Username}");
-        for (int i = 0; i < uploadedVideos.Count; i++)
+        int total = 0;
+        foreach (var video in uploadedVideos)
+        {
+            total += video.GetPlayCount();
+        }
+        return total;
+    }
+
+    public void PrintAllVideoPlaycount()
+    {
+        Console.WriteLine($"User: {username}");
+        for (int i = 0; i < Math.Min(uploadedVideos.Count, 8); i++)
         {
             Console.WriteLine($"Video {i + 1} judul: {uploadedVideos[i].GetTitle()}");
         }
