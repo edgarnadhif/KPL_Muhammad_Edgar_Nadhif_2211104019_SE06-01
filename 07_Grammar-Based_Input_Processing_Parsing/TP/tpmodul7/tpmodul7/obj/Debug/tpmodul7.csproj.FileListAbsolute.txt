@@ -1,0 +1,10 @@
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\bin\Debug\tpmodul7.exe.config
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\bin\Debug\tpmodul7.exe
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\bin\Debug\tpmodul7.pdb
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\obj\Debug\tpmodul7.csproj.AssemblyReference.cache
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\obj\Debug\tpmodul7.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\obj\Debug\tpmodul7.csproj.Up2Date
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\obj\Debug\tpmodul7.exe
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\07_Grammar-Based_Input_Processing_Parsing\TP\tpmodul7\tpmodul7\obj\Debug\tpmodul7.pdb
