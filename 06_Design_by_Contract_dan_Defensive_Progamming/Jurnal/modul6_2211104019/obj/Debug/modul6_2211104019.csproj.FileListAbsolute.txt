@@ -1,0 +1,7 @@
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\06_Design_by_Contract_dan_Defensive_Progamming\Jurnal\modul6_2211104019\bin\Debug\modul6_2211104019.exe.config
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\06_Design_by_Contract_dan_Defensive_Progamming\Jurnal\modul6_2211104019\bin\Debug\modul6_2211104019.exe
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\06_Design_by_Contract_dan_Defensive_Progamming\Jurnal\modul6_2211104019\bin\Debug\modul6_2211104019.pdb
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\06_Design_by_Contract_dan_Defensive_Progamming\Jurnal\modul6_2211104019\obj\Debug\modul6_2211104019.csproj.AssemblyReference.cache
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\06_Design_by_Contract_dan_Defensive_Progamming\Jurnal\modul6_2211104019\obj\Debug\modul6_2211104019.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\06_Design_by_Contract_dan_Defensive_Progamming\Jurnal\modul6_2211104019\obj\Debug\modul6_2211104019.exe
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\06_Design_by_Contract_dan_Defensive_Progamming\Jurnal\modul6_2211104019\obj\Debug\modul6_2211104019.pdb
