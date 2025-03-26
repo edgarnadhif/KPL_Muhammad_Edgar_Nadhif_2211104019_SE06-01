@@ -10,7 +10,8 @@ namespace jurnal_05
     {
         static void Main(string[] args)
         {
-            DataMahasiswa2211104019.ReadJSON();
+            //DataMahasiswa2211104019.ReadJSON();
+            TeamMembers2211104019.ReadJSON();
         }
     }
 }
