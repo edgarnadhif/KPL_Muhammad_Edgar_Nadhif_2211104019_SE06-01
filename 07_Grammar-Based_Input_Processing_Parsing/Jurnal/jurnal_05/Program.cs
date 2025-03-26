@@ -12,6 +12,7 @@ namespace jurnal_05
         {
             //DataMahasiswa2211104019.ReadJSON();
             TeamMembers2211104019.ReadJSON();
+            GlossaryItem2211104019.ReadJSON();
         }
     }
 }
