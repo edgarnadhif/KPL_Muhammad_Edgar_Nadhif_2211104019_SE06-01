@@ -1,0 +1,10 @@
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\obj\Debug\tp_05.csproj.AssemblyReference.cache
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\obj\Debug\tp_05.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\bin\Debug\tp_05.exe.config
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\bin\Debug\tp_05.exe
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\bin\Debug\tp_05.pdb
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\obj\Debug\tp_05.csproj.Up2Date
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\obj\Debug\tp_05.exe
+C:\Users\edgar\Documents\Kuliah\Semester 6\KPL\KPL_Muhammad_Edgar_Nadhif_2211104019_SE06-01\08_Runtime_Configuration_dan_Internationalization\TP\tp_05\obj\Debug\tp_05.pdb
